@@ -1,6 +1,6 @@
 # php_mailer
 
-1.Pull the code from repo.
+1. At First pull the code from repository.
 
 2. Than place the file to Local disk C/xampp/htdocs .
 
